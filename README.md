@@ -36,3 +36,5 @@ backend developer
                           
                       <a href="https://www.twitter.com/d_isicheri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Support Me<a
                   href="https://www.buymeacoffee.com/tech2dom4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                  
+                  </p>
