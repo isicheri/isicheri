@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 backend developer
 -----------------
+A backend developer with overs 2 years of experience, working and building myself by building application with technologies, love to contribute to projects.
+
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [disicheri@gmail.com](mailto:disicheri@gmail.com)
