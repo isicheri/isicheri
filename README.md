@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 backend developer
 -----------------
-A backend developer with overs 2 years of experience, working and building myself by building application with technologies, love to contribute to projects.
+A backend developer with over 2 years experience. working and building myself by building application with technologies, love to contribute to projects and also a believer of the web3 world.
 
 
 *   🌍  I'm based in Nigeria
