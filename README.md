@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isicheri Dominion
 =========================================================================================================================================
 
-backend developer
+software developer
 -----------------
 A backend developer with over 2 years experience. working and building myself by building application with technologies, love to contribute to projects and also a believer of the web3 world.
 
