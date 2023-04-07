@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 software developer
 -----------------
-A software developer with over 2 years experience,working and building myself by building application with backend technologies with my intensive knowledge of some programming languages and frameworks,love to explore new thing and think out of the box
+A software developer with over 2 years experience,working and building myself by building application with backend technologies with my intensive knowledge of some programming languages and frameworks,love to explore new things and think out of the box.
 
 
 *   🌍  I'm based in Nigeria
