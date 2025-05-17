@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm madaraOXsage</h1>
+<h1 align="center">Hi 👋, I'm 301</h1>
 <h3 align="center">A passionate and driven developer from Mars😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isicheri&label=Profile%20views&color=0e75b6&style=flat" alt="isicheri" /> </p>
