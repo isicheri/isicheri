@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_madaraoxsage" target="blank"><img src="https://img.shields.io/twitter/follow/_madaraoxsage?logo=twitter&style=for-the-badge" alt="_madaraoxsage" /></a> </p>
 
-- 🌱 I’m currently learning **Solana,Pentesting and Backend development**
+- 🌱 I’m currently learning **Solana,Security and Backend development**
 
-- 💬 Ask me about **web2&3 and ethical hacking**
+- 💬 Ask me about **Web2&3 and Security**
 
 - 📫 How to reach me **disicheri@gmail.com**
 
